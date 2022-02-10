@@ -7,7 +7,7 @@ function check() {
     let convInputBL = inputBL.value.toLowerCase();
 
     switch (convInputBL) {
-        case "baden - württemberg":
+        case "baden-württemberg":
             out = "Baden-Württemberg hat 10,880 Mio Einwohner und Stuttgart ist die Hauptstadt"
             break;
 
